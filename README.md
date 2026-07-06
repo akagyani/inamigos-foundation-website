@@ -6,7 +6,7 @@ Welcome to the official repository for the **InAmigos Foundation** awareness web
 
 ## 🌐 Live Demo & Deployment
 - **Repository Link:** [https://github.com/akagyani/inamigos-foundation-website](https://github.com/akagyani/inamigos-foundation-website)
-- **Deployment Status:** Ready for deployment on [Vercel](https://vercel.com) or [Netlify](https://netlify.com).
+- **Live Deployment:** [https://inamigos-foundation-website-4hatny947.vercel.app](https://inamigos-foundation-website-4hatny947.vercel.app)
 
 ***
 
